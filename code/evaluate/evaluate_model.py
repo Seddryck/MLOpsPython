@@ -111,3 +111,4 @@ if promote_new_model:
         model_path=model_path,
         properties={"release_id": release_id})
     print("Registered new model!")
+
